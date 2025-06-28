@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Hridayansh Gupta
 
 ## 👋 About Me
-
+```bash
 Final year B.Tech CSE student at PSIT Kanpur, driven by a passion for Java, DSA, and full-stack development.  
 💡 I love building scalable web apps with the MERN stack and exploring real-world AI applications.  
 🧠 My strength in Mathematics sharpens my problem-solving mindset.  
 🌐 Always learning, building, and solving with creativity and code.
-
+```
 ---
 
 ## 🛠️ Languages & Tools
