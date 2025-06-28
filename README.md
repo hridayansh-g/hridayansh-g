@@ -1,21 +1,10 @@
 # 👋 Hi, I'm Hridayansh Gupta
 
 🎓 Final Year B.Tech CSE Student at PSIT Kanpur
-
----
-
-## 👋 About Me
-```bash
-Hi, I'm Hridayansh Gupta — a Final Year B.Tech CSE Student at PSIT Kanpur.
-
-🚀 Passionate about becoming a Software Engineer with a strong focus on Java, DSA, and scalable full-stack development.
-
-💡 I enjoy building web apps using the MERN stack and love exploring AI-powered systems that solve real-world problems.
-
-🔢 My background in Mathematics fuels my analytical thinking and problem-solving skills, especially when tackling complex coding challenges.
-
-🌐 Actively learning, building, and contributing to projects that combine creativity with smart engineering.
-```
+🚀 Passionate about becoming a Software Engineer with a strong focus on Java, DSA, and scalable full-stack development.  
+💡 I enjoy building web apps using the MERN stack and love exploring AI-powered systems that solve real-world problems.  
+🔢 My background in Mathematics fuels my analytical thinking and problem-solving skills, especially when tackling complex coding challenges.  
+🌐 I’m actively learning, building, and contributing to projects that combine creativity with smart engineering.
 
 ---
 
@@ -34,13 +23,4 @@ Hi, I'm Hridayansh Gupta — a Final Year B.Tech CSE Student at PSIT Kanpur.
 ```bash
 - 📚 Currently mastering Java DSA and improving MERN stack expertise
 - 💼 Aspiring to land a Software Engineer role and build products with real impact
-```
-
----
-
-## 📫 Connect with Me
-```bash
-- LinkedIn: https://linkedin.com/in/hridayansh-gupta
-- Email: hridayansh3@gmail.com
-- Location: Kanpur, India
 ```
