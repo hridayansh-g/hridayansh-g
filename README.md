@@ -1,15 +1,12 @@
 # 👋 Hi, I'm Hridayansh Gupta
 
-```bash
 🎓 Final Year B.Tech CSE Student at PSIT Kanpur
-```
 
 ---
 
+## 👋 About Me
 ```bash
-1. 👋 About Me
-```
-👋 Hi, I'm Hridayansh Gupta — a Final Year B.Tech CSE Student at PSIT Kanpur.
+Hi, I'm Hridayansh Gupta — a Final Year B.Tech CSE Student at PSIT Kanpur.
 
 🚀 Passionate about becoming a Software Engineer with a strong focus on Java, DSA, and scalable full-stack development.
 
@@ -18,31 +15,32 @@
 🔢 My background in Mathematics fuels my analytical thinking and problem-solving skills, especially when tackling complex coding challenges.
 
 🌐 Actively learning, building, and contributing to projects that combine creativity with smart engineering.
+```
 
 ---
 
+## 🛠️ Languages & Tools
 ```bash
-2. 🛠️ Languages & Tools
+- Languages: Java, Python, JavaScript, HTML5, CSS3
+- Frameworks/Libraries: MERN (MongoDB, Express, React, Node.js)
+- Databases: MongoDB, MySQL
+- Version Control: Git, GitHub
+- Skills: Full-Stack Development, Data Structures & Algorithms, AI Basics
 ```
-- Languages: Java, Python, JavaScript, HTML5, CSS3  
-- Frameworks/Libraries: MERN (MongoDB, Express, React, Node.js)  
-- Databases: MongoDB, MySQL  
-- Version Control: Git, GitHub  
-- Skills: Full-Stack Development, Data Structures & Algorithms, AI Basics  
 
 ---
 
+## 🎯 Goals
 ```bash
-3. 🎯 Goals
+- 📚 Currently mastering Java DSA and improving MERN stack expertise
+- 💼 Aspiring to land a Software Engineer role and build products with real impact
 ```
-- 📚 Currently mastering Java DSA and improving MERN stack expertise  
-- 💼 Aspiring to land a Software Engineer role and build products with real impact  
 
 ---
 
+## 📫 Connect with Me
 ```bash
-✅ Let's connect and build something impactful!
+- LinkedIn: https://linkedin.com/in/hridayansh-gupta
+- Email: hridayansh3@gmail.com
+- Location: Kanpur, India
 ```
-🌐 [LinkedIn](https://linkedin.com/in/hridayansh-gupta)  
-📧 hridayansh3@gmail.com  
-📍 Kanpur, India  
