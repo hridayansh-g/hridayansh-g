@@ -14,7 +14,7 @@ Final year B.Tech CSE student at PSIT Kanpur, driven by a passion for Java, DSA,
 - Languages: Java, JavaScript, Python, HTML5, CSS3  
 - Frameworks & Libraries: React, Node.js, Express.js, Tailwind CSS, FastAPI  
 - Databases: MongoDB, MySQL  
-- Version Control & Tools: Git, GitHub, VS Code, Postman  
+- Version Control: Git, GitHub  
 - Skills: Full-Stack Development (MERN), Data Structures & Algorithms, Basic AI & NLP, REST API Integration
 ```
 
